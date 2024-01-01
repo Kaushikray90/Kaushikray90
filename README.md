@@ -1,3 +1,4 @@
+![logo](https://github.com/Kaushikray90/Kaushikray90/blob/main/Kaushik%20Ray..png)
 <h1 align="center">Hi 👋, I'm Kaushik Ray</h1>
 <h3 align="center">An aspiring Full-stack developer from India</h3>
 
